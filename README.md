@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hotel reservation service
+  Blog an Post serivice
   <br>
 </h1>
 
-* I started this project to create a working environment with python FastApi  PostgreSQL , Elasticsearch,Redis Database
+* I started this project to create a working environment with python Flask  Sqllite , Elasticsearch,
 ### Description of the project:
 
 * A servic for regestreing 
